@@ -1,44 +1,106 @@
 {
-    "dispatch": {
+    "dispatchqb": {
         "currentversion": "1.0.0"
     },
-    "mdt": {
+    "dispatchesx": {
         "currentversion": "1.0.0"
     },
-    "radio": {
+    "dispatchstandalone": {
         "currentversion": "1.0.0"
     },
-    "crafting": {
+
+
+    "mdtqb": {
+        "currentversion": "1.0.0"
+    },
+    "mdtesx": {
+        "currentversion": "1.0.0"
+    },
+    "mdtstandalone": {
+        "currentversion": "1.0.0"
+    },
+
+
+    "radioqb": {
+        "currentversion": "1.0.0"
+    },
+    "radioesx": {
+        "currentversion": "1.0.0"
+    },
+    "radiostandalone": {
+        "currentversion": "1.0.0"
+    },
+
+
+    "craftingesx": {
         "currentversion": "1.0.0"
     }, 
-    "cardealer": {
+    "craftingqb": {
         "currentversion": "1.0.0"
     }, 
-    "bossmenu": {
+
+
+    "cardealeresx": {
         "currentversion": "1.0.0"
     }, 
-    "multijobs": {
+    "cardealerqb": {
         "currentversion": "1.0.0"
     }, 
-    "garage": {
+
+
+    "bossmenuesx": {
         "currentversion": "1.0.0"
     }, 
+    "bossmenuqb": {
+        "currentversion": "1.0.0"
+    }, 
+
+
+    "multijobsqb": {
+        "currentversion": "1.0.0"
+    }, 
+    "multijobsesx": {
+        "currentversion": "1.0.0"
+    }, 
+
+
+    "garageesx": {
+        "currentversion": "1.0.0"
+    }, 
+    "garageqb": {
+        "currentversion": "1.0.0"
+    }, 
+
+
     "characters": {
         "currentversion": "1.0.0"
     }, 
+
+
+    "jobcenteresx": {
+        "currentversion": "1.0.0"
+    },
+    "jobcenterqb": {
+        "currentversion": "1.0.0"
+    },
+
+
     "bcs-heist": {
         "currentversion": "1.0.0"
     }, 
+
+
     "progressbars": {
         "currentversion": "1.0.0"
     }, 
+
+
     "activitytext": {
         "currentversion": "1.0.0"
     }, 
+    
+
     "proximityprompts": {
-        "currentversion": "1.0.0"
-    }, 
-    "jobcenter": {
         "currentversion": "1.0.0"
     }
 }
