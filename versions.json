@@ -1,5 +1,44 @@
 {
     "dispatch": {
         "currentversion": "1.0.0"
+    },
+    "mdt": {
+        "currentversion": "1.0.0"
+    },
+    "radio": {
+        "currentversion": "1.0.0"
+    },
+    "crafting": {
+        "currentversion": "1.0.0"
+    }, 
+    "cardealer": {
+        "currentversion": "1.0.0"
+    }, 
+    "bossmenu": {
+        "currentversion": "1.0.0"
+    }, 
+    "multijobs": {
+        "currentversion": "1.0.0"
+    }, 
+    "garage": {
+        "currentversion": "1.0.0"
+    }, 
+    "characters": {
+        "currentversion": "1.0.0"
+    }, 
+    "bcs-heist": {
+        "currentversion": "1.0.0"
+    }, 
+    "progressbars": {
+        "currentversion": "1.0.0"
+    }, 
+    "activitytext": {
+        "currentversion": "1.0.0"
+    }, 
+    "proximityprompts": {
+        "currentversion": "1.0.0"
+    }, 
+    "jobcenter": {
+        "currentversion": "1.0.0"
     }
 }
