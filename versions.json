@@ -1,25 +1,14 @@
 {
+    "dispatch": {
+        "currentversion": "1.0.0"
+    },
     "dispatchqb": {
         "currentversion": "1.0.0"
     },
-    "dispatchesx": {
-        "currentversion": "1.0.0"
-    },
-    "dispatchstandalone": {
-        "currentversion": "1.0.0"
-    },
 
-
-    "mdtqb": {
+    "mdt": {
         "currentversion": "1.0.0"
     },
-    "mdtesx": {
-        "currentversion": "1.0.0"
-    },
-    "mdtstandalone": {
-        "currentversion": "1.0.0"
-    },
-
 
     "radioqb": {
         "currentversion": "1.1.1"
