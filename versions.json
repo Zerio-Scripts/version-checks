@@ -2,9 +2,6 @@
     "dispatch": {
         "currentversion": "1.0.0"
     },
-    "dispatchqb": {
-        "currentversion": "1.0.0"
-    },
 
     "mdt": {
         "currentversion": "1.0.0"
@@ -92,8 +89,4 @@
     "proximityprompts": {
         "currentversion": "1.0.3"
     },
-    
-    "library": {
-        "currentversion": "1.0.0"
-    }
 }
