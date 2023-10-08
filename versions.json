@@ -8,12 +8,8 @@
     },
 
     "radio": {
-        "currentversion": "2.0.4",
-        "latestchanges": "Major bug fixes, please update"
-    },
-
-    "radioqb": {
-        "currentversion": "2.0.3"
+        "currentversion": "2.0.5",
+        "latestchanges": "Improved version checking, refactored anonymous mode, partially refactored radio member list handling"
     },
 
     "craftingesx": {
