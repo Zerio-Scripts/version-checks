@@ -34,12 +34,14 @@
         "currentversion": "1.2.4"
     }, 
 
-
+    "multijobs": {
+        "currentversion": "2.0.0"
+    }, 
     "multijobsqb": {
-        "currentversion": "1.0.4"
+        "currentversion": "2.0.0"
     }, 
     "multijobsesx": {
-        "currentversion": "1.0.1"
+        "currentversion": "2.0.0"
     }, 
 
 
