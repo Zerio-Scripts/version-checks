@@ -7,6 +7,10 @@
         "currentversion": "1.0.0"
     },
 
+    "parking": {
+        "currentversion": "1.0.0"
+    },
+
     "radio": {
         "currentversion": "2.0.5",
         "latestchanges": "Improved version checking, refactored anonymous mode, partially refactored radio member list handling"
