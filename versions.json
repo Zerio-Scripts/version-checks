@@ -16,8 +16,8 @@
     },
 
     "radio": {
-        "currentversion": "2.0.5",
-        "latestchanges": "Improved version checking, refactored anonymous mode, partially refactored radio member list handling"
+        "currentversion": "2.0.6",
+        "latestchanges": "Refactored prop handling, improved recent channel handling, improved radio member list handling & other misc stuff. Check out our discord for more info"
     },
 
     "craftingesx": {
