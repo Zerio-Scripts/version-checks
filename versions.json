@@ -35,14 +35,14 @@
     }, 
 
     "bossmenu": {
-        "currentversion": "2.0.0",
+        "currentversion": "2.0.1",
         "latestchanges": "Check discord. discord.zerio-scripts.com"
     },
     "bossmenuesx": {
-        "currentversion": "1.2.4"
+        "currentversion": "2.0.0"
     }, 
     "bossmenuqb": {
-        "currentversion": "1.2.4"
+        "currentversion": "2.0.0"
     }, 
 
     "multijobs": {
