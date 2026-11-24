@@ -16,8 +16,8 @@
     },
 
     "radio": {
-        "currentversion": "2.0.12",
-        "latestchanges": "Check discord. discord.zerio-scripts.com"
+        "currentversion": "3.0.2",
+        "latestchanges": "Zerio-Radio V3 is out. Coming from V2? V3 is a full rewrite that needs a voice server, and the database upgrade is one-way. Back up your database and read https://docs.zerio-scripts.com/radio/v3/migrating before you update."
     },
 
     "garage": {
